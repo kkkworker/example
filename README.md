@@ -1,2 +1,2 @@
-# example
+# Example
 My example
